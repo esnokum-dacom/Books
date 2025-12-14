@@ -13,6 +13,13 @@
       "bookart": "https://m.media-amazon.com/images/I/81VpFFpZTtL._SL1500_.jpg",
       "finished": true,
       "opinion": "Hello world"
+    },
+    {
+      "id": 3,
+      "bookname": "Frankenstein",
+      "bookart": "https://m.media-amazon.com/images/I/715sAi1-d5L._SL1500_.jpg",
+      "finished": false,
+      "opinion": "Hello world"
     }
   ]  
 }
