@@ -6,6 +6,13 @@
       "bookart": "https://m.media-amazon.com/images/I/811iBn28JdL._SL1500_.jpg",
       "finished": false,
       "opinion": "Hello world"
+    },
+    {
+      "id": 1,
+      "bookname": "You can't hurt me",
+      "bookart": "https://m.media-amazon.com/images/I/81VpFFpZTtL._SL1500_.jpg",
+      "finished": true,
+      "opinion": "Hello world"
     }
   ]  
 }
