@@ -1,24 +1,24 @@
 {
   "books": [
     {
+      "finished": false,
       "id": 1,
       "bookname": "The cont of monte cristo",
       "bookart": "https://m.media-amazon.com/images/I/811iBn28JdL._SL1500_.jpg",
-      "finished": false,
       "opinion": "Hello world"
     },
     {
+      "finished": true,
       "id": 2,
       "bookname": "You can't hurt me",
       "bookart": "https://m.media-amazon.com/images/I/81VpFFpZTtL._SL1500_.jpg",
-      "finished": true,
       "opinion": "Hello world"
     },
     {
+      "finished": false,
       "id": 3,
       "bookname": "Frankenstein",
       "bookart": "https://m.media-amazon.com/images/I/715sAi1-d5L._SL1500_.jpg",
-      "finished": false,
       "opinion": "Hello world"
     }
   ]  
