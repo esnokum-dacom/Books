@@ -5,21 +5,21 @@
       "id": 1,
       "bookname": "The cont of monte cristo",
       "bookart": "https://m.media-amazon.com/images/I/811iBn28JdL._SL1500_.jpg",
-      "opinion": "Hello world"
+      "opinion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
     },
     {
       "finished": true,
       "id": 2,
       "bookname": "You can't hurt me",
       "bookart": "https://m.media-amazon.com/images/I/81VpFFpZTtL._SL1500_.jpg",
-      "opinion": "Hello world"
+      "opinion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
     },
     {
       "finished": false,
       "id": 3,
       "bookname": "Frankenstein",
       "bookart": "https://m.media-amazon.com/images/I/715sAi1-d5L._SL1500_.jpg",
-      "opinion": "Hello world"
+      "opinion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
     }
   ]  
 }
